@@ -1,1 +1,1 @@
-# example-ci2
+# example-ci
